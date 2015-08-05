@@ -1,4 +1,6 @@
-### java排序示例代码
+## 数据结构和算法分析(java)
+
+#### 排序
 
 - [选择排序](https://github.com/MrLin1992/SortDemo/blob/master/SortDemo/src/selectionSort/SelectionSort.java)
 - [插入排序](https://github.com/MrLin1992/SortDemo/blob/master/SortDemo/src/insertionSort/InsertionSort.java)
